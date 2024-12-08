@@ -11,7 +11,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="[https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg](https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif)" />
 
 - 🔭 **Founding Member & AI/RAG Developer** at WhatsLegal.ai, building innovative AI solutions for legal workflows.  
 - 🔭 Currently working on **Temprl.pro**, a platform to simplify structuring unstructured data.  
