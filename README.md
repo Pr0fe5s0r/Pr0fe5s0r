@@ -2,11 +2,9 @@
 <img width="100%" height = "500px" src="https://fossbytes.com/wp-content/uploads/2017/02/steve.png" alt="cover" />
 </div>
 
-<h1> Hey! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hey Friend! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Pr0fe5s0r.https://github.com/Pr0fe5s0r)
-
+  
 </p>
 <div size='20px'> Hi! My name is Sri Santh. Nice to meet you...! 
 </div>
