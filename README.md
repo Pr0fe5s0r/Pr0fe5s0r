@@ -6,7 +6,7 @@
 <p align='center'>
   
 </p>
-<div size='20px'> Hi! My name is Sri Santh. Nice to meet you...! 
+<div size='20px'> My name is Sri Santh. Welcome to My Github Page...! 
 </div>
 
 <h2> About Me </h2>
