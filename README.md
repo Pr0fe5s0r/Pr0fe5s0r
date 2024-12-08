@@ -15,21 +15,18 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
+- 🔭 **Founding Member & AI/RAG Developer** at WhatsLegal.ai, building innovative AI solutions for legal workflows.  
+- 🔭 Currently working on **Temprl.pro**, a platform to simplify structuring unstructured data.  
+- 🌱 Exploring **LLMs**, **FastAPI**, and **Unity Multiplayer Game Development**.  
 
+- 💬 **Ask me about**: LLMs, Web3, Unity, or AI-powered startups.  
+- ⚡ **Fun fact**: I'm a tech enthusiast and a proud coconut farmer! 🥥  
 
-- 🔭 I’m a founding member and AI/RAG developer at WhatsLegal.ai, building innovative AI solutions for legal workflows.  
-- 🔭 I’m currently working on Temprl.pro, a platform for structuring unstructured data with ease!  
-
-- 🌱 I’m currently exploring LLMs, FastAPI, and Unity multiplayer game development.  
-
-
-- 💬 Ask me about LLMs, Web3, Unity, or startup ideas.  
-- 👯 I’m open to collaborating on AI startups, Web3 projects, and creative tech ideas.
-- ⚡ Fun fact: I'm a tech enthusiast and a proud coconut farmer! 🥥   
-
+### Let's Discuss About 🚀  
 - 🤖 **Fine-Tuning Open-Source LLMs** for smarter, accessible AI.  
 - 📚 **LLMs & RAG Systems** for intelligent data solutions.  
-- 🎮 **Unity Multiplayer** for immersive gaming experiences.   
+- 🎮 **Unity Multiplayer** for immersive gaming experiences.  
+  
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/Pr0fe5s0r?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
